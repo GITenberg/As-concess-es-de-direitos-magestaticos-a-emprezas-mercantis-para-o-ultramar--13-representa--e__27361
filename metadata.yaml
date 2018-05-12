@@ -1,0 +1,27 @@
+_repo: As-concess-es-de-direitos-magestaticos-a-emprezas-mercantis-para-o-ultramar--13-representa--e__27361
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sociedade de Geografia de Lisboa
+    gutenberg_agent_id: '32651'
+    url: http://www.gutenberg.org/2009/agents/32651
+description: ''
+gutenberg_bookshelf: PT História
+gutenberg_issued: '2008-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27361'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'KJ'
+- !lcsh 'Maritime law -- Portugal'
+- !lcsh 'Merchant marine -- Portugal'
+title: "As concessões de direitos magestaticos a emprezas mercantis para o ultramar\r\
+  \nrepresentações ao governo"
+url: http://www.gutenberg.org/ebooks/27361
