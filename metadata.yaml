@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32651'
     url: http://www.gutenberg.org/2009/agents/32651
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27361#As-concess-es-de-direitos-magestaticos-a-emprezas-mercantis-para-o-ultramar--13-representa--e_
 gutenberg_bookshelf: PT História
 gutenberg_issued: '2008-11-29'
 gutenberg_type: Text
